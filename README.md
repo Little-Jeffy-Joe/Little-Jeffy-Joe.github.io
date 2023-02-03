@@ -1,9 +1,7 @@
 # Little-Jeffy-Joe.github.io
-### > the awesomest thing ever.
-### >
-### >cause i can and i think it is.
-### >
-### >and i am awesome too.
+### the awesomest thing ever.
+### cause i can and i think it is.
+### and i am awesome too.
 
 ___
 
