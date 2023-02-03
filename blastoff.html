@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Blastoff!</title>
+	<link rel="stylesheet" type"text/css" href="style.css"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js">
+
+</script><link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"/>
+	
+	
+</head>
+<script>
+function smoke{
+	setinterval(function){
+
+	$('#smoke').effect("explode", "slow");
+	
+	}, 15000);
+}
+</script>
+<body>
+
+	<img id = 'rocket' src = "assets/rocket.jpg"/>
+	<img id = 'moon' src = "assets/moon.jpg"/>
+	<img id = 'earth' src = "assets/earth.jpg" onclick = smoke1/>
+	<div id=''>
+	</div>
+</body>
+
+</html>
