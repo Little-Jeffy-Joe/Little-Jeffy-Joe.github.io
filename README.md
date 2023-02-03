@@ -1,4 +1,4 @@
-% Home
+
 
 # Little-Jeffy-Joe.github.io
 ### the awesomest thing ever.
