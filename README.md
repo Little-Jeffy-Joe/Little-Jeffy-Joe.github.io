@@ -27,4 +27,4 @@ ___
 
 ___  
 
-Go here for the [tutorial home](little-jeffy-joe.github.io/tutorial-home.html)
+Go here for the [tutorial home](https://little-jeffy-joe.github.io/tutorial-home)
