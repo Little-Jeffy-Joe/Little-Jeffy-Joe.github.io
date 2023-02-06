@@ -26,5 +26,3 @@ ___
 ![Just when you thought it was over](https://user-images.githubusercontent.com/119092333/216865793-dd6856ed-704f-4d95-8408-51fbe7eb8ae1.png)  
 
 ___  
-
-Go here for the [tutorial home](https://little-jeffy-joe.github.io/tutorial-home)
