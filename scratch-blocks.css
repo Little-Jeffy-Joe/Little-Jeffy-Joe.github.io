@@ -68,6 +68,10 @@
   background-color: #ff0f0f;
  }
 
+.comment{
+  background-color: #edeb93;
+}
+
 .input {
   display: inline-block;
   border: 1px solid black;
