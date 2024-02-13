@@ -10,6 +10,7 @@
   font-family: Arial, sans-serif;
   font-size: 14px;
   color: white;
+  border: 1px solid black;
 }
 
 .hat {
@@ -71,7 +72,6 @@
 .comment{
   background-color: #ffff82;
   color: black;
-  border: 1px solid black;
 }
 
 .input {
