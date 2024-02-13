@@ -1,5 +1,6 @@
 .block-stack{
   box-sizing: border-box;
+  resize: auto;
 }
 
 .block {
