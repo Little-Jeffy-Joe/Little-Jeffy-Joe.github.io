@@ -71,6 +71,7 @@
 .comment{
   background-color: #ffff82;
   color: black;
+  border: 1px solid black;
 }
 
 .input {
