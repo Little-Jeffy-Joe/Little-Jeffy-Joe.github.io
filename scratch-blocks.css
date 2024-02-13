@@ -21,9 +21,6 @@
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
 }
-.cshape {
-  border-radius: 20px; /* changed from bottom-left and bottom-right */
-}
 
 .boolean {
   border-radius: 25%;
